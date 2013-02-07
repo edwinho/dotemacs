@@ -6,3 +6,10 @@
 
 ;;CEDET
 (load-file "~/.emacs.d/cedet.el")
+
+;;AucTeX
+(load-file "~/.emacs.d/auctex.el")
+
+;;新浪微博
+(add-to-list 'load-path "~/.emacs.d/weibo.emacs/")
+(require 'weibo)
