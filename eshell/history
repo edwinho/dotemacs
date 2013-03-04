@@ -1,0 +1,15 @@
+./ddt
+exit
+python rc5.py
+python rc5.py
+python rc5.py
+rc5-word
+./rc5-word
+python rc5.py
+python rc5.py
+python rc5.py
+./rc5-word 
+./rc5-word 
+./rc5-word 
+./rc5-word 
+./rc5-word 

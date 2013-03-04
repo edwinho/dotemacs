@@ -23,7 +23,7 @@
             (TeX-global-PDF-mode t)       ; PDF mode enable, not plain
             (setq TeX-save-query nil)
             (imenu-add-menubar-index)
-            (define-key LaTeX-mode-map [f7] 'TeX-complete-symbol)))
+            (define-key LaTeX-mode-map (kbd "TAB") 'TeX-complete-symbol)))
 
 ;;编译、查看、打印
 (setq TeX-view-program-list (quote (("^pdf$" "." "evince %o %(outpage)"))))
