@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012 Eric M. Ludlam
 
-;; Author: Edwin <edwin@edwin-PC>
-;; Created: 2012-10-28 02:31:35+0800
+;; Author: Edwin <edwin@edwin>
+;; Created: 2013-06-06 15:44:40+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 
